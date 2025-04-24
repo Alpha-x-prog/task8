@@ -7,3 +7,9 @@
   ```bash
   node server.js
   ```
+`пример`
+```python
+print("Hello, World!")
+
+```javascript
+console.log('Hello, world!');
